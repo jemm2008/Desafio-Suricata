@@ -1,0 +1,51 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg_rosa {
+    border: 1px solid #E83E8C;
+    background: #E83E8C !important;
+}
+
+.bg_azul {
+    background: #17A2B8 !important;
+}
+
+.text_blanco {
+    color: #FFFFFF !important;
+}
+
+.text_gris_claro {
+    color: #707070;
+}
+
+.text_gris_oscuro {
+    color: #373A3C;
+}
+
+.text_azul_claro {
+    color: #1C7CD5;
+}
+
+.borde_gris {
+    border-top: 1px solid #DDDDDD !important;
+}
+
+.vert_center {
+    display: flex;
+    align-items: center;
+}
+
+div.card {
+    width: 18rem;
+}
+
+.gggg {
+    border: 1px solid green;
+}
+
+.rrrr {
+    border: 1px solid red;
+}
+
+
